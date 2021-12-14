@@ -47,3 +47,10 @@ body{
     padding: 1em;
     background-color: #DDD;
 }
+
+#footer{
+    padding: 0.4em;
+    background-color: #777;
+    color: white;
+    text-align: center;
+}
